@@ -11,6 +11,7 @@
 - ✖️ Multiply two numbers  
 - ➗ Divide one number by another  
 - 🧼 Clear button to reset inputs and output
+- 🤍 Support negative and decimals inputs
 
 ---
 
